@@ -1,0 +1,29 @@
+.row {
+    display: flex;
+    padding-top: 2em;
+}
+
+.about-image {
+    padding-right: 4em;
+    flex: 5; 
+    text-align: right;
+}
+
+.about-content {
+        padding-left: 4em;
+        flex: 5;
+        text-align: left;
+
+}
+
+.original {
+    
+flex: 1;
+    
+}
+
+.translate {
+    
+    flex: 1;
+    
+}
