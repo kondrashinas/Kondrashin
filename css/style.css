@@ -16,14 +16,13 @@
 
 }
 
-.original {
-    
-flex: 1;
-    
+.original img, .translate img {
+height: auto;
+max-width: 100%;
 }
 
-.translate {
-    
-    flex: 1;
-    
+.original, .translate {
+width: 50%;
 }
+    
+
